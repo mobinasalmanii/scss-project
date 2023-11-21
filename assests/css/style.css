@@ -3,4 +3,11 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+nav {
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 /*# sourceMappingURL=style.css.map */
